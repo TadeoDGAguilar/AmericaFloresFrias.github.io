@@ -10,7 +10,7 @@ first_name: Tadeo D.
 last_name: Gómez-Aguilar
 
 # Status emoji
-status:
+status: Hard-Working
   icon: ☕
 
 # Is this the primary user of the site?
