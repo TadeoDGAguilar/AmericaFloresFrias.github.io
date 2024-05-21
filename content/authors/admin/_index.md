@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Tadeo D. Gómez Aguilar
 
 # Name pronunciation (optional)
 name_pronunciation: 
