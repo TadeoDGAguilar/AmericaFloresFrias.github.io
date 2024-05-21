@@ -163,4 +163,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a Member of the Advanced Institute of Cosmology. Doctoral candidate in Theoretical and Computational Physics at the ICF (Institute of Physical Sciences) of UNAM (National Autonomous University of Mexico) in Cuernavaca, Morelos. My research focuses on primordial black holes and gravitational waves in the early universe. I hold a Master's degree in Science from the Autonomous University of Chiapas (UNACH) and a degree in Computer Systems Engineering from the University of Valle de Grijalva (UVG), which has consolidated a wide range of technical skills.
+
+I have worked as a software programmer focused on basic science, engaging in multidisciplinary activities with UNACH (Autonomous University of Chiapas) and MCTP (Mesoamerican Centre for Theoretical Physics), under the supervision of Dr. Karen S. Caballero.
+
+Additionally, I have collaborated with my colleagues, engineers Edgar Delgado Díaz and Walter Armando Aguilar, to develop a tourist application for the cultural promotion of activities during the Fiesta Grande de Enero, held in Chiapa de Corzo, Chiapas.
+
+Throughout my academic career, I have participated in various events, including: the "II University Meeting of Thermodynamics" organised by the Department of Chemical and Metallurgical Engineering of the University of Sonora (US), the "IV Workshop on Numerical and Statistical Methods in Cosmology" held in Cuernavaca, Morelos, and "The First Mesoamerican Workshop on High Performance Computing, Associated Technologies and Applications" organised by the MCTP, among others.
