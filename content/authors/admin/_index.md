@@ -10,7 +10,7 @@ first_name: Tadeo D.
 last_name: Gómez-Aguilar
 
 # Status emoji
-status: active
+status: 
   icon: ☕
 
 # Is this the primary user of the site?
