@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Tadeo D. Gómez Aguilar
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -9,9 +9,6 @@ name_pronunciation:
 first_name: Tadeo D.
 last_name: Gómez-Aguilar
 
-# Status emoji
-status: 
-  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
