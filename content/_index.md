@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Tadeo D."
-date: 2022-10-24
+title: "Tadeo D. Gomez Aguilar"
+date: 1992-10-28
 type: landing
 
 design:
@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research delves into the intricate physics of the early universe, placing particular emphasis on non-standard cosmological models that arise after the inflationary phase and before the onset of Big Bang Nucleosynthesis (BBN). This captivating exploration seeks to unravel the mysteries of primordial black holes (PBHs), examining their formation, production, and evolution within these unique scenarios. By investigating these enigmatic objects, the study aims to shed light on the underlying mechanisms that governed the universe's infancy, offering profound insights into the fabric of our cosmos and potentially unveiling new physics beyond the standard cosmological paradigm.
     design:
       columns: '1'
   - block: collection
@@ -103,7 +99,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
