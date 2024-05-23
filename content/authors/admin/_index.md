@@ -21,7 +21,7 @@ role: Ph.D. (Student) in Theoretical and Computational Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Institute of Science Physics, Universidad Nacional Autónoma de México
+  - name: Institute of Science Physics, National Autonomous University of Mexico
     url: https://www.fis.unam.mx/
 
 # Social network links
@@ -50,11 +50,11 @@ interests:
 
 education:
   - area: Ph.D. in Theoretical and Computational Physics
-    institution: Universidad Nacional Autónoma de México
+    institution: National Autonomous University of Mexico
     date_start: 2023-01-29
     date_end: 2027-01-31
   - area: MSc. in Physics
-    institution: Facultad de Ciencias en Física y Matemáticas, Universidad Autónoma de Chiapas.
+    institution: Autonomous University of Chiapas.
     date_start: 2020-01-08
     date_end: 2022-10-28
   - area: BE in Computer Systems Engineering
@@ -64,28 +64,26 @@ education:
       
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Professor
+    company_name: PREMED
+    company_url: 'https://premed.mx/home'
+    company_logo: 'https://cursospremed.com/wp-content/uploads/2022/10/cropped-ESCUDO-PREMED-SIN-FONDO.webp'
+    date_start: 2021-07-01
+    date_end: '2021-09-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Facilitate the understanding and mastery of fundamental concepts
+      - Assess and monitor students' progress**
+
   - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    company_name: Mesoamerican Center for Theoretical Physics
+    company_url: 'http://en.escaramujo.net/'
+    company_logo: 'https://mctp.mx/mt-content/uploads/2018/04/thumbnails/mctp-390x329-01_m_300x253.png'
+    date_start: 2017-01-01
+    date_end: 2017-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop software application to optimizated data analysis from Escaramujo detector.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -161,7 +159,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# About Me
 
 I'm a Member of the Advanced Institute of Cosmology. Doctoral candidate in Theoretical and Computational Physics at the ICF (Institute of Physical Sciences) of UNAM (National Autonomous University of Mexico) in Cuernavaca, Morelos. My research focuses on primordial black holes and gravitational waves in the early universe. I hold a Master's degree in Science from the Autonomous University of Chiapas (UNACH) and a degree in Computer Systems Engineering from the University of Valle de Grijalva (UVG), which has consolidated a wide range of technical skills.
 
