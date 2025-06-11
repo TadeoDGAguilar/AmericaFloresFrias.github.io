@@ -1,6 +1,6 @@
 ---
 title: PBHs Merger Model
-date: 2023-10-26
+date: 2025-01-20
 external_link: https://github.com/TadeoDGAguilar/PBHs_and_GWs_into_DG
 ---
 
