@@ -1,13 +1,9 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
-tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+title: PBHBeta
+date: 2023-08-24
+external_link: https://github.com/TadeoDGAguilar/PBHBeta
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+The PBHBeta library is a computational tool designed to calculate constraints on the abundance of Primordial Black Holes (PBHs) and the power spectrum (PS) in cosmological scenarios featuring a non-standard evolution phase between the end of inflation and Big Bang Nucleosynthesis (BBN).
 
 <!--more-->
