@@ -3,7 +3,7 @@
 title: Tadeo D. Gómez Aguilar
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: (site in construction)
 
 # Full name (for SEO)
 first_name: Tadeo D.
