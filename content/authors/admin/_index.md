@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. (Student) in Theoretical and Computational Physics
+role: Ph.D. (Candidate) in Theoretical and Computational Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -161,10 +161,16 @@ awards:
 
 # About Me
 
-I'm a Member of the Advanced Institute of Cosmology. Doctoral candidate in Theoretical and Computational Physics at the ICF (Institute of Physical Sciences) of UNAM (National Autonomous University of Mexico) in Cuernavaca, Morelos. My research focuses on primordial black holes and gravitational waves in the early universe. I hold a Master's degree in Science from the Autonomous University of Chiapas (UNACH) and a degree in Computer Systems Engineering from the University of Valle de Grijalva (UVG), which has consolidated a wide range of technical skills.
+I am a member of the Advanced Institute of Cosmology and a doctoral candidate in Theoretical and Computational Physics at the Institute of Physical Sciences (ICF) of the National Autonomous University of Mexico (UNAM) in Cuernavaca, Morelos. I conduct my research under the supervision of Dr. Juan Carlos Hidalgo Cuéllar (ICF-UNAM) and Dr. Guillem Domènech Fuertes (Institute for Theoretical Physics, Leibniz Universität Hannover). My work focuses on early-universe cosmology, particularly on the formation and evolution of primordial black holes and the generation of gravitational waves.
 
-I have worked as a software programmer focused on basic science, engaging in multidisciplinary activities with UNACH (Autonomous University of Chiapas) and MCTP (Mesoamerican Centre for Theoretical Physics), under the supervision of Dr. Karen S. Caballero.
+I hold a Master’s degree in Physics from the Faculty of Physics and Mathematics at the Autonomous University of Chiapas (UNACH), and an Engineering degree in Computer Systems from the University of Valle del Grijalva (UVG), which has provided me with a broad set of technical and computational skills that support my current research.
 
-Additionally, I have collaborated with my colleagues, engineers Edgar Delgado Díaz and Walter Armando Aguilar, to develop a tourist application for the cultural promotion of activities during the Fiesta Grande de Enero, held in Chiapa de Corzo, Chiapas.
+I have worked as a software programmer focused on basic science, engaging in multidisciplinary activities with Autonomous University of Chiapas (UNACH) and Mesoamerican Centre for Theoretical Physics (MCTP), under the supervision of Dr. Karen S. Caballero. One of my recent developments is PBH-Beta, a computational tool designed to calculate the abundance of primordial black holes under various cosmological scenarios. Additionally, I have collaborated with my colleagues, engineers Edgar Delgado Díaz and Walter Armando Aguilar, to develop a mobile application for the cultural promotion of activities during the Fiesta Grande de Enero in Chiapa de Corzo, Chiapas.
 
-Throughout my academic career, I have participated in various events, including: the "II University Meeting of Thermodynamics" organised by the Department of Chemical and Metallurgical Engineering of the University of Sonora (US), the "IV Workshop on Numerical and Statistical Methods in Cosmology" held in Cuernavaca, Morelos, and "The First Mesoamerican Workshop on High Performance Computing, Associated Technologies and Applications" organised by the MCTP, among others.
+Throughout my academic journey, I have participated in various scientific events, including the II University Meeting of Thermodynamics organized by the Department of Chemical and Metallurgical Engineering at the University of Sonora (US), the IV Workshop on Numerical and Statistical Methods in Cosmology held in Cuernavaca, Morelos, and The First Mesoamerican Workshop on High Performance Computing, Associated Technologies and Applications organized by the MCTP, among others.
+
+In parallel with my scientific work, I am actively involved in science outreach projects aimed at the general public, youth, and children. I have co-authored popular science articles published in outlets such as La Unión de Morelos.
+
+My current interests combine early-universe physics, the development of numerical tools, creative science communication, and a strong commitment to cultural identity.
+
+
